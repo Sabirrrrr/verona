@@ -1,5 +1,4 @@
 #!/bin/bash
 
 echo "Hello from git"
-echo "Hello from second version"
-echo "Hello from third version"
+echo "Hello from second versiyon"
